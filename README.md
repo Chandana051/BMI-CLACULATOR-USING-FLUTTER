@@ -1,6 +1,8 @@
-# bmi_calculator
+# bmi_calculator using flutter
 
 A new Flutter project.
+In this project we will see how to create a BMI calculator app by providing height and weight of a person.
+The app allows users to login and register through Google, Twitter and facebook.
 
 ## Getting Started
 
